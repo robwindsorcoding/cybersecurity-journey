@@ -12,4 +12,4 @@ OSINT work with Trace Labs.
 - Google IT Support Professional Certificate (in progress)
 - TryHackMe — Pre-Security path
 
-## Write-ups
+
